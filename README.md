@@ -1,7 +1,7 @@
-Python 3.6.1 :: Anaconda custom (64-bit)
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+Python 3.7.5 : pyenv virtualenv
+Packages: pandas, numpy, sklearn, matplotlib, seaborn, (selenium), flask/streamlit, json, pickle
 
-For Web Framework Requirements: pip install -r requirements.txt
+<!-- For Web Framework Requirements: pip install -r requirements.txt -->
 
 Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
 
